@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: '一个自建站',
-  author: 'nkl&syf',
+  author: 'Ningjl&Sunyf',
   headerTitle: '一个自建站',
   description: '先这样吧',
   language: 'zh-cn',
